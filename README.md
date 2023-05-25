@@ -1,4 +1,4 @@
-## Hi, I'm a Rodrigo Moreira de Matos and i'm a full stack developer!
+## Hi, I'm a Rodrigo Moreira de Matos and I have been working for at least 4 years as a Software Engineer!
 <div align="center">
   <a href="https://github.com/rmoreiradematos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rmoreiradematos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
