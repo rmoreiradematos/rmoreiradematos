@@ -47,4 +47,4 @@ I’ve worked on:
 ### Let's connect
 
 - 📧 rmoreiradematos@gmail.com  
-- 💼 https://www.linkedin.com/in/rodrigo-matos-99a5679b/
+- 💼 https://www.linkedin.com/in/rodrigo-moreira-de-matos/
