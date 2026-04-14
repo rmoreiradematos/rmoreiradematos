@@ -6,14 +6,14 @@ I’m a Software Engineer with 6+ years of experience building **scalable backen
 Today, I focus on designing and developing **AI-powered internal platforms** that improve engineering productivity, automate processes, and enable teams to ship faster and more reliably.
 
 I’ve worked on:
-- 🚀 **AI Platform & Internal Tools** — building centralized AI solutions to enhance engineering workflows and performance  
-- 🔌 **Complex System Integrations** — designing resilient APIs and real-time data pipelines across multiple partners  
-- ⚙️ **Distributed Systems at Scale** — handling high-throughput services using AWS (Lambda, SQS, DynamoDB)  
-- 📈 **Business-Critical Systems** — delivering solutions that directly impacted revenue and operational efficiency  
+- **AI Platform & Internal Tools** — building centralized AI solutions to enhance engineering workflows and performance  
+- **Complex System Integrations** — designing resilient APIs and real-time data pipelines across multiple partners  
+- **Distributed Systems at Scale** — handling high-throughput services using AWS (Lambda, SQS, DynamoDB)  
+- **Business-Critical Systems** — delivering solutions that directly impacted revenue and operational efficiency  
 
 ---
 
-### 🧠 What I bring
+### What I bring
 
 - Strong backend expertise with **Node.js, TypeScript, Python, and cloud architectures**
 - Experience with **AWS serverless ecosystems** and event-driven systems  
@@ -23,7 +23,7 @@ I’ve worked on:
 
 ---
 
-### ⚡ Current focus
+### Current focus
 
 - AI Platforms & Applied AI  
 - LLM integrations & automation workflows  
@@ -32,7 +32,7 @@ I’ve worked on:
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rodrigo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -44,7 +44,7 @@ I’ve worked on:
 
 ---
 
-### 📫 Let's connect
+### Let's connect
 
 - 📧 rmoreiradematos@gmail.com  
 - 💼 https://www.linkedin.com/in/rodrigo-matos-99a5679b/
