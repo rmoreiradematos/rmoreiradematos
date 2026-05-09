@@ -29,7 +29,7 @@ Chronos Echoes combines strategic gameplay, NFT ownership, decentralized governa
 
 ---
 
-## Core Features
+Core Features
 
 - **NFT-based Card Ownership** using ERC-1155 smart contracts for scarcity, rarity, and flexible minting.
 - **Dual-Token Economy** powered by Echo Shards and Temporal Dust, designed for long-term economic sustainability.
