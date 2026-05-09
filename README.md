@@ -21,7 +21,7 @@ Zero-Knowledge Proofs (ZKPs): To cryptographically verify that AI agent actions 
 •
 AI/ML Integration: Leveraging Python and LLM frameworks to create intelligent agents for financial automation (e.g., automated trading, yield optimization).
 
-# Chronos Echoes: Decentralized Web3 Trading Card Game
+Chronos Echoes: Decentralized Web3 Trading Card Game
 
 I'm also developing **Chronos Echoes**, a decentralized Web3 Collectible Card Game (CCG) inspired by games like *Magic: The Gathering*, *Yu-Gi-Oh!*, and tabletop RPG systems such as *Dungeons & Dragons*.
 
